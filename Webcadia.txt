@@ -1,6 +1,0 @@
-cPanel		 https://licencepro.net/billing 	| $4.99
-SkyNetHosting 	 https://my.skynethosting.net 	| $8.95
-/27 IP Block	 Discord eraters#5859			| $15.00
-Hetzner		 https://robot.hetzner.com/		| $48
-
-Save per week: 20 USD - 210 SEK
